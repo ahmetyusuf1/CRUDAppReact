@@ -1,7 +1,7 @@
 <h1>Create Read Update Delete App</h1>
 
 <p>
-This project includes a CRUD application using React. Users can create books, rename books, mark books as read, and delete books.
+This project includes a CRUD application developed with React. Users can create books, rename books, mark books as read, and delete books.
 </p>
 
 <h2>Used Technologies</h2>
